@@ -24,6 +24,8 @@ The dataset includes operational and transactional data such as:
 - **Customer Feedback**: Text reviews, sentiment labels, ratings
 - **Product Information**: Price, category, margin, shelf life
 
+Dataset - https://drive.google.com/drive/folders/1Qo2Wu3BKdMDpiVtVzR-ZkJMXEMOPfly4
+
 ---
 
 ## 🧩 Project Structure
