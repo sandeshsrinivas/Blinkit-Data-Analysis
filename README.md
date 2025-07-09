@@ -140,7 +140,6 @@ Interactive dashboards built using Power BI/Tableau:
 - **Libraries**: Pandas, NumPy, Seaborn, Matplotlib, Scikit-learn, NLTK
 - **BI Tools**: Power BI or Tableau
 - **Modeling**: Regression, Clustering, Time Series Forecasting
-- **Deployment (Optional)**: Streamlit, Flask, or Jupyter exports
 
 ---
 
